@@ -1,0 +1,15 @@
+D:\studia\informatyka SGGW\wzorce\209929\209929\bin\Debug\net6.0\209929.exe
+D:\studia\informatyka SGGW\wzorce\209929\209929\bin\Debug\net6.0\209929.deps.json
+D:\studia\informatyka SGGW\wzorce\209929\209929\bin\Debug\net6.0\209929.runtimeconfig.json
+D:\studia\informatyka SGGW\wzorce\209929\209929\bin\Debug\net6.0\209929.dll
+D:\studia\informatyka SGGW\wzorce\209929\209929\bin\Debug\net6.0\ref\209929.dll
+D:\studia\informatyka SGGW\wzorce\209929\209929\bin\Debug\net6.0\209929.pdb
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.csproj.AssemblyReference.cache
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.AssemblyInfoInputs.cache
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.AssemblyInfo.cs
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.csproj.CoreCompileInputs.cache
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.dll
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\ref\209929.dll
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.pdb
+D:\studia\informatyka SGGW\wzorce\209929\209929\obj\Debug\net6.0\209929.genruntimeconfig.cache
